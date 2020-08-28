@@ -1,3 +1,4 @@
+//switch statement version
 let userName = "Galactic Overlord";
 userName ? console.log('Hello, ' + userName + '!') :
   console.log('Hello!')
@@ -33,4 +34,6 @@ switch (randomNumber) {
     break;
 }
 console.log(`${eightBall}`);
+
+
 
