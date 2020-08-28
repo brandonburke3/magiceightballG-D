@@ -12,25 +12,25 @@ switch (randomNumber) {
     eightBall = 'It is god damn certain';
     break;
   case 1:
-    eightBall = 'It is decidely fucking so!';
+    eightBall = 'It is decidely so!';
     break;
   case 2:
-   eightBall ='Hell fuckin yea they are';
+   eightBall ='Hell yea they are';
     break;
   case 3:
     eightBall = 'How dare you ask such a blasphemous question.';
     break;
   case 4:
-   eightBall = 'You can set your fuckin watch to it';
+   eightBall = 'You can set your watch to it';
     break;
   case 5:
-    eightBall = 'My sources say Fuck YEA';
+    eightBall = 'My sources say YEA';
     break;
   case 6:
     eightBall = 'Outlook is so god damn rad';
     break;
   case 7:
-    eightBall = 'Signs point to FUCK yes';
+    eightBall = 'Signs point to yes';
     break;
 }
 console.log(`${eightBall}`);
